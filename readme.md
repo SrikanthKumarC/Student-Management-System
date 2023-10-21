@@ -7,4 +7,4 @@ API Docs Full Link: https://documenter.getpostman.com/view/16217498/2s9YRB1BeE#5
 NOTE: Change localhost with API URL when using the API Docs as reference
 
 ### INCLUDE IN .ENV FILE
-```DB_URI=DB_URI=mongodb+srv://wpsrikanth:YczDB6t4KY1hGu7u@studentadmin.8p8tvou.mongodb.net/?retryWrites=true&w=majority```
+```REDACTED AS A RESULT OF NO RESPONSE```

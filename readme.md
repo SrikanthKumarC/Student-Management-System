@@ -7,4 +7,4 @@ API Docs Full Link: https://documenter.getpostman.com/view/16217498/2s9YRB1BeE#5
 NOTE: Change localhost with API URL when using the API Docs as reference
 
 ### INCLUDE IN .ENV FILE
-```REDACTED AS A RESULT OF NO RESPONSE```
+```REDACTED```
